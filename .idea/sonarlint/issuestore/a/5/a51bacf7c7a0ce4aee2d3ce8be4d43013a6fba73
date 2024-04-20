@@ -1,17 +1,17 @@
 
-	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΜƒαΜ8¬«θο1J$b70a6ca8-fac7-40b3-a699-b2296fa5eb72
+	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΜƒαΜ8¬«θο1J$d55e8301-f135-4aad-8292-af4c0ced602b
 
-java:S1659"EDeclare "password" and all following declarations on a separate line.(³ώ–χ8Ό«θο1J$1a8dd237-7725-4694-a161-c8dc77339089
+java:S1659"EDeclare "password" and all following declarations on a separate line.(³ώ–χ8Ό«θο1J$f8dbcb3d-3d9c-4b9f-bd8f-8a89f050d1ae
 ›
-java:S1450"XRemove the "btnsignin" field and declare it as a local variable in the relevant methods.(Σ¥8½«θο1J$41b2d3e2-ab68-42f1-b364-441709661b69
-	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ρ•Ξζ8Ο«θο1J$d04ad842-d0dc-45a7-a744-a5f1bc26639e
+java:S1450"XRemove the "btnsignin" field and declare it as a local variable in the relevant methods.(Σ¥8½«θο1J$1dc96021-620b-42f9-8f90-7dcc3e3bc698
+	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ρ•Ξζ8Ο«θο1J$871c8e81-f8c6-4060-9dcf-0fdc662e464e
 n
-java:S1172 "+Remove this unused method parameter "view".(ρ•Ξζ8Τ«θο1J$316b5031-2af4-485f-ace1-e78fdc452544
+java:S1172 "+Remove this unused method parameter "view".(ρ•Ξζ8Τ«θο1J$dad13c1c-1f62-47fc-9a5d-fc5b0f88b583
 {
-java:S3252$"8Use static access with "com.orm.SugarRecord" for "find".( ²Έ8Ϊ«θο1J$cc371fe9-54f2-48f6-a037-6318ca0e7d71
+java:S3252$"8Use static access with "com.orm.SugarRecord" for "find".( ²Έ8Ϊ«θο1J$3fe4b950-34e3-4bfb-a6d2-245fe1a93fce
 l
-java:S1068")Remove this unused "email" private field.(³ώ–χ8μ«θο1J$d690ccf2-6975-419d-88bd-704bc94e8736
+java:S1068")Remove this unused "email" private field.(³ώ–χ8μ«θο1J$d26dad85-d463-4eff-9a73-80b9d6c825bd
 l
-java:S1068")Remove this unused "phone" private field.(³ώ–χ8μ«θο1J$9b3ccfeb-26ed-4e19-a104-7db352d74ba5
+java:S1068")Remove this unused "phone" private field.(³ώ–χ8μ«θο1J$0613841b-4765-437e-a679-771703f332ad
 p
-java:S1068"-Remove this unused "btnsignin" private field.(Σ¥8ν«θο1J$a1a465b0-99d1-4c0f-a3a3-61beff6d32a5
+java:S1068"-Remove this unused "btnsignin" private field.(Σ¥8ν«θο1J$eb92c1b8-a8d7-4e7d-adbe-1f515e0bed01

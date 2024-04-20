@@ -104,3 +104,5 @@ Q.idea/sonarlint/securityhotspotstore/e/3/e31bf8df4945fcc023a292c02eb8bc953994ba
 Q.idea/sonarlint/securityhotspotstore/a/5/a51bacf7c7a0ce4aee2d3ce8be4d43013a6fba73,7/4/74e68a4db00dab835430b290342be64254caa0f8
 k
 ;app/src/main/java/com/movildev/loginapp/SignUpActivity.java,6/f/6f8856658c35651a7958e7f46b6b03423877c01d
+f
+6app/src/main/java/com/movildev/loginapp/Dashboard.java,1/9/190f829a6033557c6a9076958eddccf26081794b

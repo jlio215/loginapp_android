@@ -36,7 +36,7 @@ public class LoginActivity extends AppCompatActivity {
             List<User> users = User.find(User.class,"username=?", name);
             User user = users.get(0);
             if (user.getPassword().equals(pass)) {
-                Intent intent = new Intent(LoginActivity.this, SplashActivity.class);
+                Intent intent = new Intent(LoginActivity.this, Dashboard.class);
                 startActivity(intent);
                 finish();
             } else {
