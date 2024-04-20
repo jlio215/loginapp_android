@@ -4,9 +4,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.util.Log;
+import android.view.View;
 
-
-import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class SplashActivity extends AppCompatActivity {
@@ -19,23 +18,20 @@ public class SplashActivity extends AppCompatActivity {
         Log.d(TAG, "onCreate Called");
         setContentView(R.layout.activity_splash);
 
-        User user= new User("userone","tet@gmail.com","1234","mail");
-        user.save();
-
-        new Handler().postDelayed(new Runnable() {
-
-            @Override
-            public void run() {
-
-                // Iniciar Login después de 5 segundos
-                Intent intent = new Intent(SplashActivity.this, LoginActivity.class);
-                startActivity(intent);
-                finish();
-            }
-        }, 5000);
 
     }
 
+    public void login(View view) {
+        Intent intent = new Intent(SplashActivity.this, LoginActivity.class);
+        startActivity(intent);
+        finish();
+    }
+
+    public void signup(View view) {
+        Intent intent = new Intent(SplashActivity.this, SignUpActivity.class);
+        startActivity(intent);
+        finish();
+    }
     @Override
     protected void onStart () {
         super.onStart();
