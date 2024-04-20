@@ -1,0 +1,21 @@
+
+	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌƒáÌ8™şÆï1J$d8e3239a-f54d-4326-b8d9-ae50a61980a2
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ş´Ÿíşÿÿÿÿ8®şÆï1J$3456c9fb-2ea6-43b2-b395-2ce07a53a6a0
+i
+java:S1659"&Declare "password" on a separate line.(‡‰‹¨8³şÆï1J$2aee6f59-67ef-4cf1-a874-d295c0cc1246
+›
+java:S1450"XRemove the "btnsignin" field and declare it as a local variable in the relevant methods.(ÓŠ¥8´şÆï1J$324f0d00-10b1-42a3-9568-7d9616f73d7a
+š
+java:S1450"WRemove the "password" field and declare it as a local variable in the relevant methods.(‡‰‹¨8¶şÆï1J$2b7efe5a-20d0-43bc-89c0-80b56d965ba2
+š
+java:S1450"WRemove the "username" field and declare it as a local variable in the relevant methods.(‡‰‹¨8¸şÆï1J$7e3b7b01-7b9f-411e-bc01-da2ae859aa53
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş´Ÿíşÿÿÿÿ8×şÆï1J$33b056ea-fc5e-43b6-8d7d-bea917313b2f
+j
+java:S1068"'Remove this unused "TAG" private field.(ÌƒáÌ8ÚşÆï1J$5de09023-e177-4241-8fc3-fa50d364d9cd
+o
+java:S1068",Remove this unused "username" private field.(‡‰‹¨8ÛşÆï1J$d765c690-72b3-48ce-a10b-0a2beea75f56
+o
+java:S1068",Remove this unused "password" private field.(‡‰‹¨8ÜşÆï1J$51604089-893a-45e0-896f-dbc180b6e270
+p
+java:S1068"-Remove this unused "btnsignin" private field.(ÓŠ¥8ÀÂ®Æï1J$809a4406-6686-4dfe-8c8d-6cfd970f199b
