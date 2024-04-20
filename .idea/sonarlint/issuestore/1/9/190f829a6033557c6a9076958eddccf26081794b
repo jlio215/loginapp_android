@@ -1,11 +1,18 @@
 
-Ä
-java:S1186&"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Íòó¼8‰ÌÂèï1J$1f413a9f-5de7-46d1-9913-51912dbb0d4f
-Ä
-java:S1186*"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(øöŸ’8ŠÌÂèï1J$68857b80-eed4-4c5b-a331-f391f3d5c687
+
+java:S1192 "KDefine a constant instead of duplicating this literal "username=?" 3 times.( ²¸œ8›…©éï1J$f9c01453-7d5e-4f6a-ab53-6c848b34b0c9
+	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌƒáÌ8û†©éï1J$aa96d78d-356b-4207-ada9-4d291c1a16c4
 …
-java:S1659"BDeclare "email" and all following declarations on a separate line.(‡õ´—8ÌÂèï1J$bad9a150-b3ea-4940-8356-f58fb8223ad9
+java:S1659"BDeclare "email" and all following declarations on a separate line.(‡õ´—8•‡©éï1J$a4978752-99d2-4686-8a12-41bad4e60912
 n
-java:S1172"+Remove this unused method parameter "view".(™ö¿­8±ÌÂèï1J$d7351bae-3b59-423f-8384-b8549f089110
+java:S1172"+Remove this unused method parameter "view".(™ö¿­8Å‡©éï1J$8e0904d8-edee-4038-b5c4-63bc663902d0
 {
-java:S3252"8Use static access with "com.orm.SugarRecord" for "find".( ²¸œ8¸ÌÂèï1J$c75ceea2-ed8f-4768-9412-639312fe6ee7
+java:S3252 "8Use static access with "com.orm.SugarRecord" for "find".( ²¸œ8Ê‡©éï1J$0173e9a9-30dc-4b57-9675-9b09a30aa4f2
+n
+java:S1172+"+Remove this unused method parameter "view".(Íòó¼8Ó‡©éï1J$e83d334e-052e-4417-ac8e-1b9d37fe6611
+{
+java:S3252."8Use static access with "com.orm.SugarRecord" for "find".( ²¸œ8×‡©éï1J$8a46b2f6-1c64-4fed-9baa-14db9c998645
+n
+java:S11727"+Remove this unused method parameter "view".(øöŸ’8ß‡©éï1J$5317a8da-a8e2-4b0e-8c3a-b7301825b618
+{
+java:S3252:"8Use static access with "com.orm.SugarRecord" for "find".( ²¸œ8ä‡©éï1J$293c724e-2bfc-4375-910d-9111e5924223
